@@ -1,1 +1,15 @@
 Fill in the passphrases here.
+
+Passcode 1: WongAvery
+Passcode 2: iHateC++
+Passcode 3: HTMLRules
+Passcode 4: JavaScriptRocks
+Passcode 5: ShraviBeatsReact
+Passcode 6: ThisIsJSyay
+Passcode 7: SofiaWasHere
+Passcode 8: coolcoolcool3x
+Passcode 9: 2020_sucked
+Passcode 10: listenToPetalcore
+Passcode 11: ElaineFirst
+Passcode 12: iHeartWebDev
+
