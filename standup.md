@@ -8,9 +8,9 @@
 
 ## Progress Checklist
 - [x] Implement meeting notes template in HTML
-- [] Create CSS file 
-- Plan out UI design
-- Schedule next meetings 
+- [ ] Create CSS file 
+- [ ] Plan out UI design
+- [ ] Schedule next meetings 
 
 ## Next Steps
 1. Testing
