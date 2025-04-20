@@ -1,2 +1,2 @@
-# Lab 2 - Starter
-https://velyio.github.io/CSE110-lab2/
+# Lab 3
+https://velyio.github.io/sp25-cse110-lab3
